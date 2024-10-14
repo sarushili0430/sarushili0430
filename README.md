@@ -1,4 +1,5 @@
 # Hi there 👋
+Sorry, I can't play the piano
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,c,flask,vscode,androidstudio)](https://skillicons.dev)
