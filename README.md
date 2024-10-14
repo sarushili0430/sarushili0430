@@ -1,5 +1,4 @@
 # Hi there 👋
-Sorry, I can't play the piano
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,c,flask,vscode,androidstudio)](https://skillicons.dev)
@@ -23,6 +22,7 @@ Sorry, I can't play the piano
 - IEEE WCCI IJCNN Workshop "IEEE Humanitarian Activities Workshop with AI Technologies" Presentor
   - Title: "CaCo: Robot analyzing disaster victim needs and mental care during disasters"
   - Paper: https://drive.google.com/file/d/1xiAgeeBJCd2L6KPhkl4nFZCB8Gs4ojiA/view (p5-8)
+
 <!--
 **sarushili0430/sarushili0430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
