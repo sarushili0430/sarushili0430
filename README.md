@@ -6,6 +6,7 @@
 ## Contact
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/515325909851439109)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/k.fuke0502/profilecard/?igsh=ZHpiamlubzcxZHJo)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/koyu-fuke-70a683264)
 
 ## My Work
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarushili0430&repo=eyeion&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/sarushili0430/eyeion)
