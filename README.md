@@ -1,5 +1,9 @@
 # Hi there 👋
 
+<!----
+![LGTM](https://image.lgtmoon.dev/271767)
+---->
+
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,c,flask,vscode,androidstudio)](https://skillicons.dev)
 
