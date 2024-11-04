@@ -1,4 +1,5 @@
 # Hi there 👋
+My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced Science. Mainly coding for embedded products by using C and Python, recently started working (internship) as an Android developer.
 
 <!----
 ![LGTM](https://image.lgtmoon.dev/271767)
