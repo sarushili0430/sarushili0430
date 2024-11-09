@@ -25,7 +25,7 @@ My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced S
 - iCAN国内予選 (https://www.kuas.ac.jp/news/2024/4/6473)
 
 ## MISC
-- IEEE WCCI IJCNN Workshop "IEEE Humanitarian Activities Workshop with AI Technologies" Presentor
+- IEEE WCCI IJCNN Workshop "IEEE Humanitarian Activities Workshop with AI Technologies" Presenter
   - Title: "CaCo: Robot analyzing disaster victim needs and mental care during disasters"
   - Paper: https://drive.google.com/file/d/1xiAgeeBJCd2L6KPhkl4nFZCB8Gs4ojiA/view (p5-8)
 
