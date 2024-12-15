@@ -6,7 +6,7 @@ My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced S
 ---->
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,kotlin,c,flask,vscode,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,kotlin,flutter,c,flask,vscode,androidstudio)](https://skillicons.dev)
 
 ## Contact
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/515325909851439109)
