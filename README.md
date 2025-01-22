@@ -13,10 +13,6 @@ My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced S
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/k.fuke0502/profilecard/?igsh=ZHpiamlubzcxZHJo)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/koyu-fuke-70a683264)
 
-## My Work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarushili0430&repo=eyeion&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/sarushili0430/eyeion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarushili0430&repo=ReUNIPA&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/sarushili0430/ReUNIPA)
-
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarushili0430&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/sarushili0430/sarushili0430)
 ![Alliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarushili0430&show_icons=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)
