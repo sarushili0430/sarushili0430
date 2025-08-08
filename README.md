@@ -1,12 +1,12 @@
 # Hi there 👋
-My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced Science. Mainly coding for embedded products by using C and Python, recently started working (internship) as an Android developer.
+My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced Science. Mainly coding for modern applications, written in TypeScript, Dart, Kotlin.
 
 <!----
 ![LGTM](https://image.lgtmoon.dev/271767)
 ---->
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,kotlin,flutter,c,flask,vscode,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,typescript,nextjs,react,vscode,androidstudio)](https://skillicons.dev)
 
 ## Contact
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/515325909851439109)
