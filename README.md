@@ -79,10 +79,11 @@ My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced S
   - useSWR/Jotaiの導入: NextJSに親和性のあるfetcherを導入し、状態管理・キャッシュ管理等を一元で行えるようにしました. また、Jotaiを用いることで不要なAPIリクエストを削減しパフォーマンスを向上させました。
   - neverthrowの導入: エラーハンドリングをtry-catchではなく、Result型を用いることでcatch漏れによる想定外挙動の回避等のヒューマンエラーを極力減らしました。
  
-- 作業の自動化
+- 作業の自動化等
   - CIの自動化：Github Actionsを用いてMerge前にLint/Testが走るようにしました。
   - Mockの反映を高速化：Geminiを用いて議事録を要約し、機能要件をまとめたものをGithub Issuesにあげ即座にClaude Codeに実装させることで議論のスピードを向上させました。
   - 決済SaaSの一本化：複数の決済SaaSを用いて行っていたものをStripeに一本化し、各店舗の売上の集計を週次で出力するようにしました。
+  - Google Tag Managerの導入: 広告流入等の効果測定を行うために導入しました。
 
 
 <!--
