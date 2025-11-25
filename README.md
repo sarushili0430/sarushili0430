@@ -15,7 +15,6 @@ My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced S
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarushili0430&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/sarushili0430/sarushili0430)
-![Alliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarushili0430&show_icons=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)
 
 ## Awards
 - iCAN国内予選 (https://www.kuas.ac.jp/news/2024/4/6473)
