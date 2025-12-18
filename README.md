@@ -47,7 +47,7 @@ My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced S
 #### 使用言語・ライブラリ・アーキテクチャ
 - TypeScript
 - React
-- NextJS (App Router)
+- Next.js (App Router)
 - SWR
 - Hono
 - BFF
