@@ -17,34 +17,32 @@ My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced S
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarushili0430&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/sarushili0430/sarushili0430)
 
 ## Awards
-- iCAN国内予選 (https://www.kuas.ac.jp/news/2024/4/6473)
+- iCAN Domestic Preliminary Round ([link](https://www.kuas.ac.jp/news/2024/4/6473))
 
 ## MISC
 - IEEE WCCI IJCNN Workshop "IEEE Humanitarian Activities Workshop with AI Technologies" Presenter
   - Title: "CaCo: Robot analyzing disaster victim needs and mental care during disasters"
-  - Paper: https://drive.google.com/file/d/1xiAgeeBJCd2L6KPhkl4nFZCB8Gs4ojiA/view (p5-8)
+  - Paper: [link](https://drive.google.com/file/d/1xiAgeeBJCd2L6KPhkl4nFZCB8Gs4ojiA/view) (p5-8)
 
-## 実務経験 (インターン含む)
+## Work Experience (including internships)
 
-### 2024/8〜2025/3 株式会社ドワンゴ
+### Aug 2024 – Mar 2025: DWANGO Co., Ltd.
 
-#### 使用言語・ライブラリ・アーキテクチャ
+#### Languages, Libraries & Architecture
 - Kotlin
 - Jetpack Compose (Android View)
-- JUnit, Espresso (UIテスト)
+- JUnit, Espresso (UI Testing)
 - MVVM
 
+#### Job Description
+I was part of the Android app team for the online learning platform "Zen Study," working on development aimed at improving the learning environment for students. My work broadly fell into three areas:
+- Incrementally migrating components written in View to Jetpack Compose
+- Replacing deprecated components
+- Creating and proposing new UI elements
 
-#### 業務内容
+### Apr 2025 – Present: eMoBi, Inc.
 
-オンライン学習プラットフォーム「Zen Study」のAndroidアプリチームに所属し、生徒の学習環境向上を目指した開発に従事しました. 大きく分けて3つのことを行いました。
-- Viewで書かれたコンポーネントを段階的にJetpack Composeに置き換えること
-- Deprecatedになったコンポーネントの置き換え
-- 新規UIの作成および提案
- 
-### 2025/4〜 株式会社eMoBi
-
-#### 使用言語・ライブラリ・アーキテクチャ
+#### Languages, Libraries & Architecture
 - TypeScript
 - React
 - Next.js (App Router)
@@ -52,37 +50,35 @@ My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced S
 - Hono
 - BFF
 
-#### 使用ツール
-- Github Actions
+#### Tools
+- GitHub Actions
 - Figma
 
-#### 業務内容
+#### Job Description
+I was part of the software team for the vehicle rental platform "eMoBi Web App," working on consolidating previously distributed services—based on the existing mobile app—into a single web application.
 
-車両貸出プラットフォーム「eMoBi Web App」のソフトウェアチームに所属し、既存モバイルアプリをベースに分散していたサービスを一つのWebアプリ化する業務に従事しました。
-* 分散していたサービス: モバイルアプリに加え、別途予約システムのSaaSを導入していました
+> Distributed services: In addition to the mobile app, a separate reservation system SaaS had been adopted.
+>
+> (The job description below is written as of August.)
 
-(こちらの業務内容につきましては、現時点(8月)を基準に内容を記述しています)
+My work broadly fell into three areas:
 
-大きく分けて3つのことを行いました
+- **Requirements definition through implementation of the web app:** When transitioning to a web app, I redefined the requirements of the mobile app (which had been over-specified) and refreshed the design.
+  - Defined the minimum necessary functional requirements for booking and ride operations, referencing the existing native app
+  - Created designs using Figma
+  - Introduced OpenAPI, Storybook, and other tools to enrich documentation
+  - Introduced lightweight agile development (adjusting schedules to target a one-week release cadence)
 
-- Webアプリの要件定義〜実装までを担当: Webアプリ化するにあたって、要件過剰だったモバイルアプリを改めて要件定義し直しデザイン等も刷新しました。
+- **Technical work:**
+  - **Introduced BFF architecture:** Since the existing Java server had APIs built for mobile, I wrote a BFF server in Hono to handle response preprocessing needed for the web app and integrated it into Next.js Route Handlers.
+  - **Introduced useSWR/Jotai:** Adopted a fetcher with good Next.js compatibility to centralize state and cache management. Also used Jotai to reduce unnecessary API requests and improve performance.
+  - **Introduced neverthrow:** Replaced try-catch error handling with a Result type to minimize human errors such as unexpected behavior from missed catches.
 
-  - 既存ネイティブアプリを参考に、予約・乗車に必要最低限な機能要件の策定
-  - Figmaを用いたデザインの作成
-  - OpenAPIやStorybook等を導入し、ドキュメントを充実化する
-  - 簡易的なアジャイル開発の導入 (リリーススパンを1週間目安にスケジュール感を調整)
-
-- 技術面: 技術面に関しては、以下の業務を担当しました。
-
-  - BFFアーキテクチャの導入: 既存のJavaサーバーがモバイル向けにAPIが開発されていたため、Webアプリにするにあたって必要なレスポンスの前処理等を行うBFFサーバーをHonoで記述し、NextJSのRoute Handlersに統合しました
-  - useSWR/Jotaiの導入: NextJSに親和性のあるfetcherを導入し、状態管理・キャッシュ管理等を一元で行えるようにしました. また、Jotaiを用いることで不要なAPIリクエストを削減しパフォーマンスを向上させました。
-  - neverthrowの導入: エラーハンドリングをtry-catchではなく、Result型を用いることでcatch漏れによる想定外挙動の回避等のヒューマンエラーを極力減らしました。
- 
-- 作業の自動化等
-  - CIの自動化：Github Actionsを用いてMerge前にLint/Testが走るようにしました。
-  - Mockの反映を高速化：Geminiを用いて議事録を要約し、機能要件をまとめたものをGithub Issuesにあげ即座にClaude Codeに実装させることで議論のスピードを向上させました。
-  - 決済SaaSの一本化：複数の決済SaaSを用いて行っていたものをStripeに一本化し、各店舗の売上の集計を週次で出力するようにしました。
-  - Google Tag Managerの導入: 広告流入等の効果測定を行うために導入しました。
+- **Workflow automation, etc.**
+  - **CI automation:** Set up GitHub Actions to run lint/tests before merges.
+  - **Faster mock implementation:** Used Gemini to summarize meeting notes and compile feature requirements into GitHub Issues, then had Claude Code implement them immediately to speed up discussions.
+  - **Consolidated payment SaaS:** Unified multiple payment SaaS providers into Stripe and set up weekly revenue reports per store.
+  - **Introduced Google Tag Manager:** Implemented for measuring the effectiveness of ad-driven traffic.
 
 
 <!--
