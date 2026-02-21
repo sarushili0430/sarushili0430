@@ -35,7 +35,7 @@ My name is Koyu Fuke, currently at my 3rd year in Kyoto University of Advanced S
 - MVVM
 
 #### Job Description
-I was part of the Android app team for the online learning platform "Zen Study," working on development aimed at improving the learning environment for students. My work broadly fell into three areas:
+Belonged to the Android app team for the online learning platform "Zen Study," working on development aimed at improving the learning environment for students. Work broadly fell into three areas:
 - Incrementally migrating components written in View to Jetpack Compose
 - Replacing deprecated components
 - Creating and proposing new UI elements
@@ -55,22 +55,22 @@ I was part of the Android app team for the online learning platform "Zen Study,"
 - Figma
 
 #### Job Description
-I was part of the software team for the vehicle rental platform "eMoBi Web App," working on consolidating previously distributed services—based on the existing mobile app—into a single web application.
+Belonged to the software team for the vehicle rental platform "eMoBi Web App," working on consolidating previously distributed services—based on the existing mobile app—into a single web application.
 
 > Distributed services: In addition to the mobile app, a separate reservation system SaaS had been adopted.
 >
 > (The job description below is written as of August.)
 
-My work broadly fell into three areas:
+Work broadly fell into three areas:
 
-- **Requirements definition through implementation of the web app:** When transitioning to a web app, I redefined the requirements of the mobile app (which had been over-specified) and refreshed the design.
+- **Requirements definition through implementation of the web app:** When transitioning to a web app, redefined the requirements of the mobile app (which had been over-specified) and refreshed the design.
   - Defined the minimum necessary functional requirements for booking and ride operations, referencing the existing native app
   - Created designs using Figma
   - Introduced OpenAPI, Storybook, and other tools to enrich documentation
   - Introduced lightweight agile development (adjusting schedules to target a one-week release cadence)
 
 - **Technical work:**
-  - **Introduced BFF architecture:** Since the existing Java server had APIs built for mobile, I wrote a BFF server in Hono to handle response preprocessing needed for the web app and integrated it into Next.js Route Handlers.
+  - **Introduced BFF architecture:** Since the existing Java server had APIs built for mobile, wrote a BFF server in Hono to handle response preprocessing needed for the web app and integrated it into Next.js Route Handlers.
   - **Introduced useSWR/Jotai:** Adopted a fetcher with good Next.js compatibility to centralize state and cache management. Also used Jotai to reduce unnecessary API requests and improve performance.
   - **Introduced neverthrow:** Replaced try-catch error handling with a Result type to minimize human errors such as unexpected behavior from missed catches.
 
